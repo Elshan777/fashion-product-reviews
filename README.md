@@ -1,4 +1,4 @@
-# Analysis and Prediction with NLP on fashion reviews
+# Analysis and Prediction of fashion clothes reviews with Deep Learning Methods
 
 Explore the fashion clothes review dataset from kaggle and build two sentiment classification models:
   - Predict if the user who wrote review recommended the product or not (Yes\No)
